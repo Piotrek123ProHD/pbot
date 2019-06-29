@@ -1,0 +1,1 @@
+[null,{"name":"join","temp":"nick","event-type":"6","actions":[{"info":"0","find":"593816721706582022","storage":"1","varName":"kanal","name":"Find Channel"},{"channel":"4","varName":"","message":"Witaj ${tempVars(\"nick\")} na serverze pPack [Wycieki]","storage":"0","varName2":"","name":"Send Message"}]}]
